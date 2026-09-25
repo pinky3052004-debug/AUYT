@@ -144,10 +144,10 @@ def main():
     
     schedule_slots = [ 
         (8, 33),
-        (13, 07),
-        (16, 02), 
-        (20, 06),
-        (23, 04)
+        (13, 17),
+        (16, 12), 
+        (20, 16),
+        (23, 14)
     ]
 
     mmt_tz = timezone(timedelta(hours=6, minutes=30))
