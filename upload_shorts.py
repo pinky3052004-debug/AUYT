@@ -143,11 +143,11 @@ def main():
     videos_to_upload = pending_videos[:5]
     
     schedule_slots = [ 
-        (8, 30),
-        (11, 30),
-        (14, 30),
-        (16, 30), 
-        (19, 30)   
+        (8, 33),
+        (13, 07),
+        (16, 02), 
+        (20, 06),
+        (23, 04)
     ]
 
     mmt_tz = timezone(timedelta(hours=6, minutes=30))
